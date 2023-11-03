@@ -1,13 +1,11 @@
-﻿/*
- * 2265. Count Nodes Equal to Average of Subtree
- * Given the root of a binary tree, 
- * return the number of nodes where the value of the node is equal to the average of the values in its subtree.
- */
+﻿//
+// Solution to LeetCode problem #2265 - Count Nodes Equal to Average of Subtree.
+//
 
 namespace LeetCode
 {
     /// <summary>
-    /// This class is responsible for running the code for Count Nodes Equal to Average of Subtree task.
+    /// Responsible for running the code of Count Nodes Equal to Average of Subtree.
     /// </summary>
     internal class AverageOfSubtree
     {
