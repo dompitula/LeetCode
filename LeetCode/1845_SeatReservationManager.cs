@@ -2,8 +2,6 @@
 // Solution to LeetCode problem #1845 - Seat Reservation Manager
 //
 
-using LeetCode;
-
 namespace LeetCode
 {
     /// <summary>
